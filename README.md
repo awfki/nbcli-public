@@ -16,6 +16,7 @@ Given a text file with appropriate info, nbcli can
 ## Installation
 
 ### Requirements
+* Python 2.7
 * pyenv (`brew install pyenv`)
 * Python modules:
   * argparse, distutils.util, csv, inspect, logging, os, pynetbox, requests, sys
