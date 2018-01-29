@@ -2,7 +2,7 @@
 
 A CLI tool for making bulk changes to [NetBox](https://github.com/digitalocean/netbox) via it's API. 
 
-This was written by a network engineer with who needed a way to compare spreadsheets to NetBox. It could probably be a lot better but at this point it's unlikely that I'll be doing much more with it. 
+This was written by a network engineer who needed a way to compare spreadsheets to NetBox. It could probably be a lot better but at this point it's unlikely that I'll be doing much more with it. If you improve it I would be very interested in seeing your changes.
 
 ## What can it do?
 
